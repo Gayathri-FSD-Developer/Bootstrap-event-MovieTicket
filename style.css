@@ -1,0 +1,14 @@
+
+ container-fluids{
+    display: grid;
+    /* grid-template-columns: 150px 150px 150px; */
+    /* gap: 10px; */
+} 
+
+.rounded-pill {
+    border-style: double;
+    background-color: aliceblue;
+    text-align: center;
+    /* border-radius:0cqmin; */
+}
+
